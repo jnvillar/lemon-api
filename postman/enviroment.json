@@ -1,0 +1,29 @@
+{
+	"id": "2c126f7d-dcff-4d09-8e61-2ce0fb49f313",
+	"name": "lemon",
+	"values": [
+		{
+			"key": "user_id",
+			"value": "3362ef22-9c54-4405-a6b7-93c0c856ef1b",
+			"enabled": true
+		},
+		{
+			"key": "wallet_id",
+			"value": "819d5d4b-f019-4870-bac5-dfd3e81df979",
+			"enabled": true
+		},
+		{
+			"key": "user_to",
+			"value": "079f1d18-aea9-4ce7-a36a-dcab92853285",
+			"enabled": true
+		},
+		{
+			"key": "wallet_to",
+			"value": "1a822366-4066-4c60-8600-6f7672b0b997",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2021-09-11T15:20:45.985Z",
+	"_postman_exported_using": "Postman/8.12.1"
+}
